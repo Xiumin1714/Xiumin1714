@@ -59,7 +59,8 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<p align="center">
+
+<p>
   <img src="http://mazandi.herokuapp.com/api?handle={ksm1714@snu.ac.kr}&theme=cold" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Xiumin1714&show_icons=true&theme=buefy" width="45%"/>
 </p>
