@@ -60,7 +60,6 @@ Here are some ideas to get you started:
 
 <br>
 
- <-- <img src="https://github-readme-stats.vercel.app/api?username=Xiumin1714&show_icons=true&theme=buefy" width="45%"/> -->
 
 
 
