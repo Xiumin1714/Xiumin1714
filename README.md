@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--타이틀 부분-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&weight=300&size=40&pause=5000&color=11327A&center=true&vCenter=true&repeat=false&width=435&lines=This+is+Soomin's+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&weight=300&size=20&pause=5000&color=11327A&center=true&vCenter=true&repeat=false&width=435&lines=This+is+Soomin's+Github)](https://git.io/typing-svg)
 
 <br>
 
