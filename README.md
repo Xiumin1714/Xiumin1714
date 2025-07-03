@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- 타이틀 부분 -->
 <p align="center">
-  <img src="https://github.com/Xiumin1714/Xiumin1714/blob/master/assets/Github_header_white.png?raw=true" alt="Welcome to Soomin's Github" />
+  <img src="https://github.com/Xiumin1714/Xiumin1714/blob/master/assets/header_img.png?raw=true" alt="Welcome to Soomin's Github" />
 </p>
 
 <!-- 내용 부분 -->
