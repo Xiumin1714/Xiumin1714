@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 </p>
 
 <!-- 내용 부분 -->
-<h4>✨ Tech Stack </h4>
+<h4>✨ Skills </h4>
+<p>Languages</p>
 <div>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h4>🛠 Tools </h4>
+<p>Tools</p>
 <div>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
