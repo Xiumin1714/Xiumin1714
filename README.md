@@ -18,8 +18,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/Xiumin1714/Xiumin1714/blob/master/assets/Github_header_white.png?raw=true" alt="Welcome to Soomin's Github" />
 </p>
 
-<br>
-
 <!-- 내용 부분 -->
 <h4>✨ Tech Stack </h4>
 <div>
